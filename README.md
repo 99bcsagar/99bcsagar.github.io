@@ -1,3 +1,3 @@
 # 99bcsagar.github.io
 
-Personal Website
+https://rebrand.ly/technicalseminar
