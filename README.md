@@ -1,3 +1,4 @@
 # 99bcsagar.github.io
 
-https://rebrand.ly/technical-seminar
+
+https://rebrand.ly/technicalseminar
